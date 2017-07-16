@@ -1,7 +1,7 @@
 - id: profile.fullname
-  translation: "Yana Gogo"
+  translation: "Zhen Feng"
 - id: profile.description
-  translation: "I started working in the area of tattoos when I was 14, which is also when I made my first tattoo. So far I've had the chance to learn from masters in Singapore, Thailand, Phillipines, China, Russia, and other cool places throughout the world. Check out some of my previous works, and let me know if you want to start a cool new tattoo project with me."
+  translation: ""
 
 - id: contact.headline
   translation: "Follow my public groups"
@@ -9,13 +9,13 @@
   translation: ""
 
 - id: contact.email
-  translation: "gogo@gogo.tattoo"
+  translation: ""
 - id: contact.chat
-  translation: "yana"
+  translation: ""
 - id: contact.steemit
-  translation: "gogotattoo"
+  translation: ""
 - id: contact.wechat_qr
-  translation: "QmXFFveX9MUs35bmQmjRA94iwDP3FiLakr8go1LNg9vWHQ"
+  translation: ""
 
 - id: nav.tattoo
   translation: "Tattoo"

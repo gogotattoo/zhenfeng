@@ -1,8 +1,8 @@
 baseurl = "http://gogo.tattoo/gogo/"
 languageCode = "en-us"
-title = "ʕ•ᴥ•ʔ gogo.tattoo/gogo"
-name = "gogo.tattoo"
-copyright = "gogo.tattoo"
+title = "gogo.tattoo/zhenfeng"
+name = "Zhen Feng"
+copyright = "Zhen Feng"
 googleAnalytics = "UA-79234406-1"
 
 DefaultContentLanguage = "en"
@@ -30,10 +30,10 @@ favicon = "favicon.ico"
   tag = "tags"
 
 [params.profile]
-  avatar = "images/gogo.jpg"
+  avatar = "images/zhenfeng.jpg"
   description = "profile.description"
   fullname = "profile.fullname"
-  experience = "7+ years (since 2010)"
+  experience = "2+ years (since 2015)"
   location = "Shanghai"
   origin = "Shanghai"
 
@@ -58,7 +58,7 @@ favicon = "favicon.ico"
   contact = "nav.contact"
 
 [params.navigation]
-  brand = "gogo@gogo.tattoo"
+  brand = ""
 
   [params.navigation.links]
     about     = "nav.about"

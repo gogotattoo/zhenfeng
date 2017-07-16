@@ -1,5 +1,5 @@
 - id: profile.fullname
-  translation: "Яна Gogo"#
+  translation: "Zhen Feng"
 - id: nav.tattoo
   translation: "紋身"
 - id: nav.design
@@ -12,6 +12,6 @@
   translation: "臟辮"
 
 - id: profile.description
-  translation: "從14歲開始，我便有幸接觸來自中國，新加坡，泰國，菲律賓，俄羅斯和全世界各地的紋身大師們。也是在14歲，我製作了第一個紋身，在新加坡的一間十年老紋身店裡度過了一整個青春期。我覺得紋身的價值在於它的意義，在過去的日子裡，我見證了多多少少個紋身改變了客人們的人生軌跡。每個紋身都是一個重要項目，是我干涉的人生，是我的責任。"
+  translation: ""
 - id: nav.contact
   translation: "聯繫我"
