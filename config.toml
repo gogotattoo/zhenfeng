@@ -30,7 +30,7 @@ favicon = "favicon.ico"
   tag = "tags"
 
 [params.profile]
-  avatar = "images/zhenfeng.jpg"
+  avatar = "images/zhenfeng.png"
   description = "profile.description"
   fullname = "profile.fullname"
   experience = "2+ years (since 2015)"
